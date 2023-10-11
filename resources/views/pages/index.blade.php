@@ -32,12 +32,12 @@
         @endforeach
     </code>
     <h2 class="text-xl font-semibold">Samples</h2>
-    <div class="bg-gray-100 p-2">
+    <div class="p-2">
         <details>
             <summary>There are quite a few...</summary>
             <div class="grid grid-cols-3 gap-4 items-center">
                 @foreach (\App\Models\Font::get() as $font)
-                    <div class="flex flex-col">
+                    <div class="bg-gray-100 p-2 flex flex-col text-center">
                         @foreach (explode(',', $font->weights) as $weight)
                             <div
                                 style="

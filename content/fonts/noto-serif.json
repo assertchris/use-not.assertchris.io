@@ -1,0 +1,7 @@
+{
+    "name": "Noto Serif",
+    "file_for_all": "noto-serif",
+    "file_for_weight": "noto-serif-{weight}",
+    "style": "normal",
+    "weights": "100,200,300,400,500,600,700,800,900"
+}

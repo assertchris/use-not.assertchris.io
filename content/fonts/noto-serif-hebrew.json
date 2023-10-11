@@ -1,0 +1,9 @@
+{
+    "name": "Noto Serif Hebrew",
+    "file_for_all": "noto-serif-hebrew",
+    "file_for_weight": "noto-serif-hebrew-{weight}",
+    "style": "normal",
+    "weights": "100,200,300,400,500,600,700,800,900",
+    "range": "U+0590-05FF",
+    "sample": "לִטעוֹם"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Noto Sans Mono",
+    "file_for_all": "noto-sans-mono",
+    "file_for_weight": "noto-sans-mono-{weight}",
+    "style": "normal",
+    "weights": "100,200,300,400,500,600,700,800,900"
+}

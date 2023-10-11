@@ -1,0 +1,8 @@
+{
+    "name": "Noto Sans",
+    "file_for_all": "noto-sans-italic",
+    "file_for_weight": "noto-sans-italic-{weight}",
+    "style": "italic",
+    "weights": "100,200,300,400,500,600,700,800,900",
+    "show_in_css": false
+}

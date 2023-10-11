@@ -1,0 +1,8 @@
+{
+    "name": "Noto Serif",
+    "file_for_all": "noto-serif-italic",
+    "file_for_weight": "noto-serif-italic-{weight}",
+    "style": "italic",
+    "weights": "100,200,300,400,500,600,700,800,900",
+    "show_in_css": false
+}

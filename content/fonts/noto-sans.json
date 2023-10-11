@@ -1,0 +1,7 @@
+{
+    "name": "Noto Sans",
+    "file_for_all": "noto-sans",
+    "file_for_weight": "noto-sans-{weight}",
+    "style": "normal",
+    "weights": "100,200,300,400,500,600,700,800,900"
+}
